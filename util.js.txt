@@ -18,8 +18,5 @@ add from login
 666-本地库修改
 666-remote
 
-<<<<<<< HEAD
 777--kerwin
-=======
 777-tiechui
->>>>>>> 35a362c14ba36499bb5ae5f2b09d7d8db02b0f7d
